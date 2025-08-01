@@ -125,7 +125,7 @@ az monitor autoscale rule create   --resource-group MyRG --autoscale-name pbi-gw
 
 ## Upload & Parameterize Automation Script
 
-1. **Copy** the [https://github.com/DavidArayaS/Autoscaling-Power-BI-data-gateway/blob/dfb4423974dd0978f38c66560b0ee126aaa094b0/install-pbigw.ps1](./install-pbigw.ps1) to a **public blob** container  
+1. **Copy** the [Powershell Script](https://github.com/DavidArayaS/Autoscaling-Power-BI-data-gateway/blob/dfb4423974dd0978f38c66560b0ee126aaa094b0/install-pbigw.ps1) to a **public blob** container  
 2. Make it **anonymous-read** or use a SAS URL  
 3. Ensure it contains your **tenant**, **SP**, **cluster ID**, and **recovery key**  
 
