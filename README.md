@@ -151,4 +151,7 @@ az vmss extension set   --publisher Microsoft.Compute   --name CustomScriptExten
 
 ---
 
-**You now have a fully automated, autoscaling Power BI Data Gateway cluster on Azure VMSS!**
+**More information:**
+
+https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-onprem
+https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-high-availability-clusters
