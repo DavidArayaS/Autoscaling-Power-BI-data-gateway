@@ -13,6 +13,8 @@
 .NOTES
   - Hard-coded values below—update only tenant/SP/keys/IDs if they change.
   - Service Principal must be a **Gateway Admin** on ‘your cluster’.
+  
+   This script comes with no warranty, use at your own risk!!!
 #>
 
 #--------------------------------------
