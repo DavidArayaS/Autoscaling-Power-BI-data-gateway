@@ -154,4 +154,6 @@ az vmss extension set   --publisher Microsoft.Compute   --name CustomScriptExten
 **More information:**
 
 https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-onprem
+
+
 https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-high-availability-clusters
